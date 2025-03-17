@@ -1,4 +1,4 @@
-# 🏆 Humanoid Robot OOP Project
+# 🤖 Humanoid Robot OOP Project
 
 ## 📌 Overview
 This project is a Python-based **Object-Oriented (OOP) system** for a humanoid robot, designed to perform the following key operations:
