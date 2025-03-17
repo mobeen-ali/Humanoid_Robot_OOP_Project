@@ -24,3 +24,21 @@ Ensure you have **Python 3.12** installed on your system.
 To check, run:
 ```sh
 python --version
+```
+
+### **2️⃣ Clone This Repository**
+Clone this repository to your local machine:
+```sh
+git clone https://github.com/mobee-ali/Humanoid_Robot_OOP_Project.git
+```
+
+### **3️⃣ Navigate to the Project Folder**
+```sh
+cd Humanoid_Robot_OOP_Project
+```
+
+### **4️⃣ Run the Project**
+Execute the main.py file:
+```sh
+python main.py
+```
